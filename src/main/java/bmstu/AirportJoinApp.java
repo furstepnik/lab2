@@ -19,8 +19,8 @@ public class AirportJoinApp {
         MultipleInputs.addInputPath(job, new Path(args[1]), TextInputFormat.class, AirportsMapper.class);
 
         FileOutputFormat.setOutputPath(job, new Path(args[2]));
-        job.setPartitionerClass(AirportPartitioner.FirstPartitioner.class);
-        job.setGroupingComparatorClass(AirportGroupingComparator.FirstComparator.class);
+        job.setPartitionerClass(AirportPartitioner.class);
+        job.setGroupingComparatorClass(AirportGroupingComparator.class);
         job.setReducerClass(AirportReducer.class);
         job.setMapOutputKeyClass(AirportWritableComparable.class);
 
