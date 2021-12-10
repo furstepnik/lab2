@@ -1,5 +1,5 @@
 package bmstu;
 
-public class AirportsMapper {
-    
+public class AirportsMapper extends Mapper<>{
+
 }
