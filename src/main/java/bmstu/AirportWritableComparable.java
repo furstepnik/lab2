@@ -47,5 +47,7 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
         data = in.readInt();
     }
 
-    public int 
+    public int getAirportId () {
+        return 
+    }
 }
