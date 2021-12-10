@@ -24,6 +24,7 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
                 if (delayMax < delay) {
                     delayMax=delay;
                 }
+                delaySum+=delay;
                 
             }
 
