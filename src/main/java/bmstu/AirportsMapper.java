@@ -13,7 +13,9 @@ public class AirportsMapper extends Mapper<LongWritable, Text, AirportWritableCo
             throws IOException, InterruptedException {
         String table = value.toString();
         String[] values = table.split("\",\"");
-        
+        if (key.get() > 0) {
+            
+        }
 
     }
 }
