@@ -19,7 +19,8 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
         if (key.get()>0) {
             String delay = values[DELAY_POSITION];
             String airportId = values[AIRPORT_ID_POSITION];
-            
+            boolean delayCheck = ()
+
 
         }
     }
