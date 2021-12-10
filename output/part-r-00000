@@ -1,0 +1,584 @@
+AirportName : Abilene, TX: Abilene Regional	
+    min delay : 0.0
+    max delay : 76.0
+    average delay : 8.956522
+AirportName : Albuquerque, NM: Albuquerque International Sunport	
+    min delay : 0.0
+    max delay : 126.0
+    average delay : 8.347561
+AirportName : Albany, GA: Southwest Georgia Regional	
+    min delay : 0.0
+    max delay : 34.0
+    average delay : 12.125
+AirportName : Atlantic City, NJ: Atlantic City International	
+    min delay : 0.0
+    max delay : 147.0
+    average delay : 24.516129
+AirportName : Kodiak, AK: Kodiak Airport	
+    min delay : 0.0
+    max delay : 76.0
+    average delay : 43.333332
+AirportName : Augusta, GA: Augusta Regional at Bush Field	
+    min delay : 0.0
+    max delay : 246.0
+    average delay : 13.15
+AirportName : Waterloo, IA: Waterloo Regional	
+    min delay : 2.0
+    max delay : 223.0
+    average delay : 78.8
+AirportName : Aspen, CO: Aspen Pitkin County Sardy Field	
+    min delay : 0.0
+    max delay : 136.0
+    average delay : 21.306452
+AirportName : Appleton, WI: Outagamie County Regional	
+    min delay : 0.0
+    max delay : 146.0
+    average delay : 16.88
+AirportName : Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International	
+    min delay : 0.0
+    max delay : 20.0
+    average delay : 4.7
+AirportName : Billings, MT: Billings Logan International	
+    min delay : 0.0
+    max delay : 58.0
+    average delay : 11.7
+AirportName : Bellingham, WA: Bellingham International	
+    min delay : 0.0
+    max delay : 20.0
+    average delay : 4.6
+AirportName : Beaumont/Port Arthur, TX: Jack Brooks Regional	
+    min delay : 0.0
+    max delay : 36.0
+    average delay : 17.625
+AirportName : Aguadilla, PR: Rafael Hernandez	
+    min delay : 0.0
+    max delay : 109.0
+    average delay : 10.538462
+AirportName : Barrow, AK: Wiley Post/Will Rogers Memorial	
+    min delay : 0.0
+    max delay : 306.0
+    average delay : 40.8
+AirportName : Buffalo, NY: Buffalo Niagara International	
+    min delay : 0.0
+    max delay : 128.0
+    average delay : 10.974576
+AirportName : Burbank, CA: Bob Hope	
+    min delay : 0.0
+    max delay : 192.0
+    average delay : 11.795031
+AirportName : Columbia, SC: Columbia Metropolitan	
+    min delay : 0.0
+    max delay : 119.0
+    average delay : 15.6603775
+AirportName : Akron, OH: Akron-Canton Regional	
+    min delay : 0.0
+    max delay : 83.0
+    average delay : 6.3846154
+AirportName : Cedar City, UT: Cedar City Regional	
+    min delay : 0.0
+    max delay : 15.0
+    average delay : 3.2
+AirportName : Cordova, AK: Merle K Mudhole Smith	
+    min delay : 0.0
+    max delay : 151.0
+    average delay : 15.2
+AirportName : Crescent City, CA: Jack McNamara Field	
+    min delay : 0.0
+    max delay : 138.0
+    average delay : 34.0
+AirportName : Chattanooga, TN: Lovell Field	
+    min delay : 0.0
+    max delay : 124.0
+    average delay : 13.172414
+AirportName : Charlottesville, VA: Charlottesville Albemarle	
+    min delay : 0.0
+    max delay : 173.0
+    average delay : 46.31579
+AirportName : Charleston, SC: Charleston AFB/International	
+    min delay : 0.0
+    max delay : 198.0
+    average delay : 8.813953
+AirportName : Cleveland, OH: Cleveland-Hopkins International	
+    min delay : 0.0
+    max delay : 326.0
+    average delay : 18.235495
+AirportName : Columbus, OH: Port Columbus International	
+    min delay : 0.0
+    max delay : 315.0
+    average delay : 20.924623
+AirportName : Hancock/Houghton, MI: Houghton County Memorial	
+    min delay : 0.0
+    max delay : 69.0
+    average delay : 26.833334
+AirportName : Moab, UT: Canyonlands Field	
+    min delay : 0.0
+    max delay : 0.0
+    average delay : 0.0
+AirportName : Casper, WY: Casper/Natrona County International	
+    min delay : 0.0
+    max delay : 98.0
+    average delay : 7.7058825
+AirportName : Corpus Christi, TX: Corpus Christi International	
+    min delay : 0.0
+    max delay : 89.0
+    average delay : 11.764706
+AirportName : Charleston/Dunbar, WV: Yeager	
+    min delay : 0.0
+    max delay : 20.0
+    average delay : 6.3076925
+AirportName : Columbus, GA: Columbus Airport	
+    min delay : 0.0
+    max delay : 63.0
+    average delay : 19.875
+AirportName : Daytona Beach, FL: Daytona Beach International	
+    min delay : 0.0
+    max delay : 49.0
+    average delay : 7.1538463
+AirportName : Dubuque, IA: Dubuque Regional	
+    min delay : 0.0
+    max delay : 83.0
+    average delay : 16.75
+AirportName : Washington, DC: Ronald Reagan Washington National	
+    min delay : 0.0
+    max delay : 396.0
+    average delay : 12.085107
+AirportName : Denver, CO: Denver International	
+    min delay : 0.0
+    max delay : 420.0
+    average delay : 15.42355
+AirportName : Dallas/Fort Worth, TX: Dallas/Fort Worth International	
+    min delay : 0.0
+    max delay : 1201.0
+    average delay : 17.74577
+AirportName : Dothan, AL: Dothan Regional	
+    min delay : 0.0
+    max delay : 91.0
+    average delay : 20.181818
+AirportName : El Paso, TX: El Paso International	
+    min delay : 0.0
+    max delay : 140.0
+    average delay : 12.494845
+AirportName : Evansville, IN: Evansville Regional	
+    min delay : 0.0
+    max delay : 101.0
+    average delay : 15.24138
+AirportName : Newark, NJ: Newark Liberty International	
+    min delay : 0.0
+    max delay : 557.0
+    average delay : 16.131378
+AirportName : Key West, FL: Key West International	
+    min delay : 0.0
+    max delay : 3.0
+    average delay : 0.13043478
+AirportName : Fairbanks, AK: Fairbanks International	
+    min delay : 0.0
+    max delay : 38.0
+    average delay : 3.5625
+AirportName : Fresno, CA: Fresno Yosemite International	
+    min delay : 0.0
+    max delay : 82.0
+    average delay : 12.307693
+AirportName : Kalispell, MT: Glacier Park International	
+    min delay : 0.0
+    max delay : 77.0
+    average delay : 17.583334
+AirportName : Fort Smith, AR: Fort Smith Regional	
+    min delay : 0.0
+    max delay : 93.0
+    average delay : 8.157895
+AirportName : Spokane, WA: Spokane International	
+    min delay : 0.0
+    max delay : 117.0
+    average delay : 8.410959
+AirportName : Grand Forks, ND: Grand Forks International	
+    min delay : 0.0
+    max delay : 7.0
+    average delay : 2.25
+AirportName : Grand Island, NE: Central Nebraska Regional	
+    min delay : 0.0
+    max delay : 38.0
+    average delay : 9.833333
+AirportName : Killeen, TX: Robert Gray AAF	
+    min delay : 0.0
+    max delay : 148.0
+    average delay : 11.657895
+AirportName : Grand Rapids, MI: Gerald R. Ford International	
+    min delay : 0.0
+    max delay : 313.0
+    average delay : 19.5
+AirportName : Greer, SC: Greenville-Spartanburg International	
+    min delay : 0.0
+    max delay : 149.0
+    average delay : 16.849056
+AirportName : Gunnison, CO: Gunnison-Crested Butte Regional	
+    min delay : 0.0
+    max delay : 154.0
+    average delay : 39.2
+AirportName : Guam, TT: Guam International	
+    min delay : 4.0
+    max delay : 22.0
+    average delay : 13.0
+AirportName : Hayden, CO: Yampa Valley	
+    min delay : 0.0
+    max delay : 48.0
+    average delay : 9.3529415
+AirportName : Helena, MT: Helena Regional	
+    min delay : 0.0
+    max delay : 28.0
+    average delay : 2.8333333
+AirportName : Harlingen/San Benito, TX: Valley International	
+    min delay : 0.0
+    max delay : 53.0
+    average delay : 7.172414
+AirportName : Washington, DC: Washington Dulles International	
+    min delay : 0.0
+    max delay : 256.0
+    average delay : 12.587079
+AirportName : Houston, TX: George Bush Intercontinental/Houston	
+    min delay : 0.0
+    max delay : 464.0
+    average delay : 14.471043
+AirportName : Wichita, KS: Wichita Dwight D Eisenhower National	
+    min delay : 0.0
+    max delay : 186.0
+    average delay : 22.944445
+AirportName : Idaho Falls, ID: Idaho Falls Regional	
+    min delay : 0.0
+    max delay : 103.0
+    average delay : 21.833334
+AirportName : Wilmington, DE: New Castle	
+    min delay : 0.0
+    max delay : 5.0
+    average delay : 2.5
+AirportName : Hilo, HI: Hilo International	
+    min delay : 0.0
+    max delay : 44.0
+    average delay : 3.66
+AirportName : Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International	
+    min delay : 0.0
+    max delay : 97.0
+    average delay : 11.142858
+AirportName : New York, NY: John F. Kennedy International	
+    min delay : 0.0
+    max delay : 395.0
+    average delay : 16.300896
+AirportName : Kona, HI: Kona International Airport at Keahole	
+    min delay : 0.0
+    max delay : 148.0
+    average delay : 7.3653846
+AirportName : Lansing, MI: Capital Region International	
+    min delay : 0.0
+    max delay : 47.0
+    average delay : 12.0625
+AirportName : Laramie, WY: Laramie Regional	
+    min delay : 0.0
+    max delay : 161.0
+    average delay : 30.0
+AirportName : Los Angeles, CA: Los Angeles International	
+    min delay : 0.0
+    max delay : 462.0
+    average delay : 11.5899105
+AirportName : Lubbock, TX: Lubbock Preston Smith International	
+    min delay : 0.0
+    max delay : 81.0
+    average delay : 12.88
+AirportName : Latrobe, PA: Arnold Palmer Regional	
+    min delay : 0.0
+    max delay : 94.0
+    average delay : 13.888889
+AirportName : Long Beach, CA: Long Beach Airport	
+    min delay : 0.0
+    max delay : 121.0
+    average delay : 8.592592
+AirportName : Lihue, HI: Lihue Airport	
+    min delay : 0.0
+    max delay : 195.0
+    average delay : 9.054348
+AirportName : Little Rock, AR: Bill and Hillary Clinton Nat Adams Field	
+    min delay : 0.0
+    max delay : 205.0
+    average delay : 19.010204
+AirportName : La Crosse, WI: La Crosse Regional	
+    min delay : 0.0
+    max delay : 68.0
+    average delay : 24.416666
+AirportName : Midland/Odessa, TX: Midland International	
+    min delay : 0.0
+    max delay : 153.0
+    average delay : 10.369863
+AirportName : Saginaw/Bay City/Midland, MI: MBS International	
+    min delay : 0.0
+    max delay : 81.0
+    average delay : 20.8125
+AirportName : Kansas City, MO: Kansas City International	
+    min delay : 0.0
+    max delay : 236.0
+    average delay : 11.352409
+AirportName : Orlando, FL: Orlando International	
+    min delay : 0.0
+    max delay : 306.0
+    average delay : 12.028895
+AirportName : Harrisburg, PA: Harrisburg International	
+    min delay : 0.0
+    max delay : 124.0
+    average delay : 19.133333
+AirportName : Chicago, IL: Chicago Midway International	
+    min delay : 0.0
+    max delay : 206.0
+    average delay : 10.274961
+AirportName : Memphis, TN: Memphis International	
+    min delay : 0.0
+    max delay : 188.0
+    average delay : 13.592
+AirportName : Mission/McAllen/Edinburg, TX: McAllen Miller International	
+    min delay : 0.0
+    max delay : 142.0
+    average delay : 23.72973
+AirportName : Medford, OR: Rogue Valley International - Medford	
+    min delay : 0.0
+    max delay : 84.0
+    average delay : 10.857142
+AirportName : Manhattan/Ft. Riley, KS: Manhattan Regional	
+    min delay : 0.0
+    max delay : 111.0
+    average delay : 13.142858
+AirportName : Manchester, NH: Manchester-Boston Regional	
+    min delay : 0.0
+    max delay : 110.0
+    average delay : 14.212766
+AirportName : Milwaukee, WI: General Mitchell International	
+    min delay : 0.0
+    max delay : 215.0
+    average delay : 8.726891
+AirportName : Muskegon, MI: Muskegon County	
+    min delay : 0.0
+    max delay : 81.0
+    average delay : 23.75
+AirportName : Melbourne, FL: Melbourne International	
+    min delay : 0.0
+    max delay : 9.0
+    average delay : 1.0909091
+AirportName : Mammoth Lakes, CA: Mammoth Lakes Airport	
+    min delay : 0.0
+    max delay : 27.0
+    average delay : 6.75
+AirportName : Mobile, AL: Mobile Regional	
+    min delay : 0.0
+    max delay : 100.0
+    average delay : 10.289474
+AirportName : Monterey, CA: Monterey Regional	
+    min delay : 0.0
+    max delay : 186.0
+    average delay : 16.942858
+AirportName : Missoula, MT: Missoula International	
+    min delay : 0.0
+    max delay : 7.0
+    average delay : 1.6363636
+AirportName : Montrose/Delta, CO: Montrose Regional	
+    min delay : 0.0
+    max delay : 137.0
+    average delay : 14.708333
+AirportName : Oakland, CA: Metropolitan Oakland International	
+    min delay : 0.0
+    max delay : 176.0
+    average delay : 9.994565
+AirportName : Kahului, HI: Kahului Airport	
+    min delay : 0.0
+    max delay : 272.0
+    average delay : 8.508287
+AirportName : Chicago, IL: Chicago O'Hare International	
+    min delay : 0.0
+    max delay : 529.0
+    average delay : 22.295698
+AirportName : North Bend/Coos Bay, OR: Southwest Oregon Regional	
+    min delay : 30.0
+    max delay : 30.0
+    average delay : 30.0
+AirportName : Kotzebue, AK: Ralph Wien Memorial	
+    min delay : 0.0
+    max delay : 0.0
+    average delay : 0.0
+AirportName : Paducah, KY: Barkley Regional	
+    min delay : 0.0
+    max delay : 15.0
+    average delay : 2.142857
+AirportName : Newport News/Williamsburg, VA: Newport News/Williamsburg International	
+    min delay : 0.0
+    max delay : 16.0
+    average delay : 5.6923075
+AirportName : Philadelphia, PA: Philadelphia International	
+    min delay : 0.0
+    max delay : 336.0
+    average delay : 13.816876
+AirportName : Peoria, IL: General Downing - Peoria International	
+    min delay : 0.0
+    max delay : 217.0
+    average delay : 27.121212
+AirportName : Pittsburgh, PA: Pittsburgh International	
+    min delay : 0.0
+    max delay : 368.0
+    average delay : 12.641149
+AirportName : Pellston, MI: Pellston Regional Airport of Emmet County	
+    min delay : 0.0
+    max delay : 5.0
+    average delay : 1.25
+AirportName : Pago Pago, TT: Pago Pago International	
+    min delay : 0.0
+    max delay : 0.0
+    average delay : 0.0
+AirportName : Pasco/Kennewick/Richland, WA: Tri Cities	
+    min delay : 0.0
+    max delay : 115.0
+    average delay : 27.466667
+AirportName : Ponce, PR: Mercedita	
+    min delay : 0.0
+    max delay : 0.0
+    average delay : 0.0
+AirportName : Petersburg, AK: Petersburg James A Johnson	
+    min delay : 0.0
+    max delay : 19.0
+    average delay : 4.3333335
+AirportName : Palm Springs, CA: Palm Springs International	
+    min delay : 0.0
+    max delay : 170.0
+    average delay : 13.25
+AirportName : Pueblo, CO: Pueblo Memorial	
+    min delay : 0.0
+    max delay : 59.0
+    average delay : 13.0
+AirportName : Raleigh/Durham, NC: Raleigh-Durham International	
+    min delay : 0.0
+    max delay : 165.0
+    average delay : 12.956204
+AirportName : Rhinelander, WI: Rhinelander/Oneida County	
+    min delay : 0.0
+    max delay : 49.0
+    average delay : 9.285714
+AirportName : Richmond, VA: Richmond International	
+    min delay : 0.0
+    max delay : 175.0
+    average delay : 10.355371
+AirportName : Reno, NV: Reno/Tahoe International	
+    min delay : 0.0
+    max delay : 149.0
+    average delay : 10.008547
+AirportName : Roanoke, VA: Roanoke Regional/Woodrum Field	
+    min delay : 0.0
+    max delay : 109.0
+    average delay : 12.166667
+AirportName : Rochester, NY: Greater Rochester International	
+    min delay : 0.0
+    max delay : 163.0
+    average delay : 16.088236
+AirportName : Roswell, NM: Roswell International Air Center	
+    min delay : 0.0
+    max delay : 10.0
+    average delay : 1.5
+AirportName : Santa Fe, NM: Santa Fe Municipal	
+    min delay : 0.0
+    max delay : 36.0
+    average delay : 14.444445
+AirportName : South Bend, IN: South Bend International	
+    min delay : 0.0
+    max delay : 245.0
+    average delay : 31.0
+AirportName : San Luis Obispo, CA: San Luis County Regional	
+    min delay : 0.0
+    max delay : 123.0
+    average delay : 8.125
+AirportName : Louisville, KY: Louisville International-Standiford Field	
+    min delay : 0.0
+    max delay : 113.0
+    average delay : 10.774194
+AirportName : St. George, UT: St George Municipal	
+    min delay : 0.0
+    max delay : 27.0
+    average delay : 3.357143
+AirportName : Shreveport, LA: Shreveport Regional	
+    min delay : 0.0
+    max delay : 63.0
+    average delay : 7.6226416
+AirportName : Sitka, AK: Sitka Rocky Gutierrez	
+    min delay : 0.0
+    max delay : 81.0
+    average delay : 13.222222
+AirportName : San Angelo, TX: San Angelo Regional/Mathis Field	
+    min delay : 0.0
+    max delay : 35.0
+    average delay : 6.571429
+AirportName : Santa Ana, CA: John Wayne Airport-Orange County	
+    min delay : 0.0
+    max delay : 127.0
+    average delay : 5.559727
+AirportName : Springfield, IL: Abraham Lincoln Capital	
+    min delay : 0.0
+    max delay : 51.0
+    average delay : 9.5
+AirportName : Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal	
+    min delay : 0.0
+    max delay : 200.0
+    average delay : 30.5
+AirportName : Sarasota/Bradenton, FL: Sarasota/Bradenton International	
+    min delay : 0.0
+    max delay : 178.0
+    average delay : 8.411765
+AirportName : St. Cloud, MN: St. Cloud Regional	
+    min delay : 0.0
+    max delay : 76.0
+    average delay : 25.666666
+AirportName : St. Louis, MO: Lambert-St. Louis International	
+    min delay : 0.0
+    max delay : 383.0
+    average delay : 13.370646
+AirportName : Charlotte Amalie, VI: Cyril E King	
+    min delay : 0.0
+    max delay : 167.0
+    average delay : 15.76
+AirportName : Sioux City, IA: Sioux Gateway/Col. Bud Day Field	
+    min delay : 0.0
+    max delay : 18.0
+    average delay : 6.0
+AirportName : Newburgh/Poughkeepsie, NY: Stewart International	
+    min delay : 0.0
+    max delay : 189.0
+    average delay : 33.857143
+AirportName : Syracuse, NY: Syracuse Hancock International	
+    min delay : 0.0
+    max delay : 110.0
+    average delay : 17.342857
+AirportName : Tampa, FL: Tampa International	
+    min delay : 0.0
+    max delay : 513.0
+    average delay : 12.58637
+AirportName : Trenton, NJ: Trenton Mercer	
+    min delay : 0.0
+    max delay : 112.0
+    average delay : 23.16
+AirportName : Tulsa, OK: Tulsa International	
+    min delay : 0.0
+    max delay : 140.0
+    average delay : 11.083969
+AirportName : Tucson, AZ: Tucson International	
+    min delay : 0.0
+    max delay : 167.0
+    average delay : 13.5
+AirportName : Traverse City, MI: Cherry Capital	
+    min delay : 0.0
+    max delay : 223.0
+    average delay : 52.533333
+AirportName : Knoxville, TN: McGhee Tyson	
+    min delay : 0.0
+    max delay : 239.0
+    average delay : 18.862068
+AirportName : Vernal, UT: Vernal Regional	
+    min delay : 0.0
+    max delay : 19.0
+    average delay : 4.8333335
+AirportName : Valparaiso, FL: Northwest Florida Regional	
+    min delay : 0.0
+    max delay : 79.0
+    average delay : 5.5555553
+AirportName : Yuma, AZ: Yuma MCAS/Yuma International	
+    min delay : 0.0
+    max delay : 24.0
+    average delay : 6.0
