@@ -18,13 +18,11 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
         String values[] = table.split(",");
         if (key.get()>0) {
             String delay = values[DELAY_POSITION];
-            int Integer.parse airportId = values[AIRPORT_ID_POSITION];
+            int airportId = Integer.parseInt(values[AIRPORT_ID_POSITION]);
             boolean delayCheck = (Float.parseFloat(values[DELAY_POSITION+1])==1.0f);
             if (delayCheck) {
                 context.write(new AirportWritableComparable(airportId,1), new Text(values[DELAY_POSITION]));
             }
-
-
         }
     }
 }
