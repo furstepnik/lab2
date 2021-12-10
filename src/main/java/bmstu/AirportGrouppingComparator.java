@@ -1,2 +1,4 @@
-package bmstu;public class AirportGrouppingComparator {
+package bmstu;
+
+public class AirportGrouppingComparator {
 }
