@@ -13,7 +13,9 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
         float delayMin = Float.MAX_VALUE;
         int flightCount = 0;
         float delaySum = 0.0f;
-        Iterator<Text> 
+        Iterator<Text> iter = .iterator();
+        if (iter.hasNext()) {
+            Text airportName = new Text(iter.next());
 
     }
 
