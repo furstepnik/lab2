@@ -17,7 +17,7 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
         if (iter.hasNext()) {
             Text airportName = new Text(iter.next());
             while (iter.hasNext()) {
-                float delay = Float.parseFloat(())
+                float delay = Float.parseFloat((iter.hasNext().toString()))
             }
 
     }
