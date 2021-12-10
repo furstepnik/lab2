@@ -31,11 +31,10 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
         } else {
             airportIdCompare = 0;
         }
-        int dataComp = data > o.data ? 1 : -1;
         if (airportIdCompare != 0) {
             return airportIdCompare;
         } else {
-            return dataComp;
+            return Integer;
         }
     }
 }
