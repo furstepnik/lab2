@@ -6,7 +6,7 @@ import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
-public class AirportWritableComparable implements WritableComparable {
+public class AirportWritableComparable implements WritableComparable<AirportWritableComparable> {
 
     @Override
     public int compareTo(Object o) {
@@ -21,5 +21,10 @@ public class AirportWritableComparable implements WritableComparable {
     @Override
     public void readFields(DataInput in) throws IOException {
 
+    }
+
+    @Override
+    public int compareTo(AirportWritableComparable o) {
+        return 0;
     }
 }
