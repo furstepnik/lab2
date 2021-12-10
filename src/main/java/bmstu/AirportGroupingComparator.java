@@ -9,7 +9,7 @@ public class AirportGroupingComparator extends WritableComparator {
     }
 
     public int compare(WritableComparable a, WritableComparable b) {
-        
+        AirportWritableComparable 
     }
 
 }
