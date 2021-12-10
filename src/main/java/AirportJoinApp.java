@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class AirportJoinApp {
+public class AirportJoinApp {
 }
