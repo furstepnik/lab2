@@ -8,6 +8,8 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
     @Override
     protected void reduce(AirportWritableComparable key, Iterable<Text> values, Context context) throws
             IOException, InterruptedException {
+        float delayMax = Float.MIN_VALUE;
+        float delayMin = Float.MAX_VALUE;
         
     }
 
