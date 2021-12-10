@@ -9,7 +9,7 @@ import java.io.IOException;
 public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComparable, Text> {
 
     public static final int DELAY_POSITION = 18;
-    public static final int 
+    public static final int AIRPORT_ID_POSITION = 14;
     @Override
     protected void map(LongWritable key, Text value,
                        Mapper<LongWritable, Text, AirportWritableComparable, Text>.Context context)
@@ -17,6 +17,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
         String table = value.toString();
         String values[] = table.split(",");
         if (key.get()>0) {
+            
 
         }
     }
