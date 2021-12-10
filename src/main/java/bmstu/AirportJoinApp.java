@@ -20,7 +20,7 @@ public class AirportJoinApp {
         FileOutputFormat.setOutputPath(job, new Path(args[2]));
         job.setPartitionerClass(AirportPartitioner.FirstPartitioner.class);
         job.setGroupingComparatorClass(AirportGroupingComparator.FirstComparator.class);
-        job.setReducerClass(JoinReducer.class);
+        job.setReducerClass(AirportReducer.class);
         job.setMapOutputKeyClass(AirportWritableComparable.class);
 
         job.setOutputKeyClass(Text.class);
