@@ -19,19 +19,20 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
             while (iter.hasNext()) {
                 float delay = Float.parseFloat((iter.next().toString()));
                 if (delayMin > delay) {
-                    delayMin=delay;
+                    delayMin = delay;
                 }
                 if (delayMax < delay) {
-                    delayMax=delay;
+                    delayMax = delay;
                 }
-                delaySum+=delay;
+                delaySum += delay;
                 flightCount++;
             }
-            if (flightCount>0) {
-                String airport = "\nAirport" + 
+            if (flightCount > 0) {
+                context.write(new Text("AirportName : " + airportName),
+                        new Text("\n    min delay : " + delayMin +
+                                "\n" + "    max delay : " + delayMax +
+                                "\n" + "    average delay : " + delaySum / flightCount));
             }
-
+        }
     }
-
-
 }
