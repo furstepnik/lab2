@@ -8,10 +8,10 @@ public class AirportGroupingComparator extends WritableComparator {
         super(AirportWritableComparable.class, true);
     }
 
+    @Override
     public int compare(WritableComparable a, WritableComparable b) {
         AirportWritableComparable keyA = (AirportWritableComparable) a;
         AirportWritableComparable keyB = (AirportWritableComparable) b;
-        return Integer.compare()
+        return Integer.compare(keyA.getAirportId(), keyB.getAirportId());
     }
-
 }
