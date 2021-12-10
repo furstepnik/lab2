@@ -1,2 +1,4 @@
-package bmstu;public class AirportsMapper {
+package bmstu;
+
+public class AirportsMapper {
 }
