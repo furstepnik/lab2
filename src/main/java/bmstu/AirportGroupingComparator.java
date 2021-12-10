@@ -7,6 +7,6 @@ public class AirportGroupingComparator extends WritableComparator {
         super(AirportWritableComparable.class, true);
     }
 
-    public int ()
+    public int conpare()
 
 }
