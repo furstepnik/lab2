@@ -48,6 +48,10 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
     }
 
     public int getAirportId () {
-        return 
+        return airportId;
+    }
+
+    public int getData() {
+        return data;
     }
 }
