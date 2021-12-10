@@ -28,7 +28,7 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
                 flightCount++;
             }
             if (flightCount>0) {
-                String airport = "\nAirport" 
+                String airport = "\nAirport" + 
             }
 
     }
