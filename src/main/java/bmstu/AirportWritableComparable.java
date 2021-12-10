@@ -15,8 +15,11 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
     public int compareTo(AirportWritableComparable o) {
         int airportIdCompare;
         if (airportId != o.airportId) {
-            airportIdCompare = airportId 
+            airportIdCompare = airportId > o.airportId ? 1 : -1;
+        } else {
+            airportIdCompare = 0;
         }
+        
         return 0;
     }
 
