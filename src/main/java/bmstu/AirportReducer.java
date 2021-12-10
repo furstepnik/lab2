@@ -1,5 +1,5 @@
 package bmstu;
 
-public class AirportReducer ex {
+public class AirportReducer extends Reducer<> {
 
 }
