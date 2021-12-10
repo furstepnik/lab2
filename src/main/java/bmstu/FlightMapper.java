@@ -21,7 +21,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
             String airportId = values[AIRPORT_ID_POSITION];
             boolean delayCheck = (Float.parseFloat(values[DELAY_POSITION+1])==1.0f);
             if (delayCheck) {
-                context.write(new AirportWritableComparable(airportId,1), new Text());
+                context.write(new AirportWritableComparable(airportId,1), new Text(values[DELAY_POSITION]));
             }
 
 
