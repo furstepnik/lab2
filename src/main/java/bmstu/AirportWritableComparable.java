@@ -1,2 +1,4 @@
-package bmstu;public class AirportWritableComparable {
+package bmstu;
+
+public class AirportWritableComparable {
 }
