@@ -12,11 +12,6 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
     private int data;
 
     @Override
-    public int compareTo(Object o) {
-        return 0;
-    }
-
-    @Override
     public void write(DataOutput out) throws IOException {
         out.writeInt(airportID);
         out.writeInt(data);
@@ -31,6 +26,7 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
     @Override
     public int compareTo(AirportWritableComparable o) {
         
+
         return 0;
     }
 }
