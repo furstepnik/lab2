@@ -1,4 +1,6 @@
 package bmstu;
 
-public class AirportPartitioner extends {
+import org.apache.hadoop.mapreduce.Partitioner;
+
+public class AirportPartitioner extends Partitioner<AirportWritableComparable, > {
 }
