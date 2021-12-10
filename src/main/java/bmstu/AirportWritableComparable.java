@@ -38,5 +38,9 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
         }
     }
 
-    
+    public AirportWritableComparable () {
+
+    }
+
+    public AirportWritableComparable (int )
 }
