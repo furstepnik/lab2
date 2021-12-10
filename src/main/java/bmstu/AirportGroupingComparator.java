@@ -11,7 +11,7 @@ public class AirportGroupingComparator extends WritableComparator {
     public int compare(WritableComparable a, WritableComparable b) {
         AirportWritableComparable keyA = (AirportWritableComparable) a;
         AirportWritableComparable keyB = (AirportWritableComparable) b;
-        
+        return Integer.compare()
     }
 
 }
