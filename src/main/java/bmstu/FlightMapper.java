@@ -11,6 +11,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
     protected void map(LongWritable key, Text value,
                        Mapper<LongWritable, Text, AirportWritableComparable, Text>.Context context)
             throws IOException, InterruptedException {
-        
+        String table = value.toString();
+        String values[] = table.
     }
 }
