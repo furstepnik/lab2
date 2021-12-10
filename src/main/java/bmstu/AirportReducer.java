@@ -1,4 +1,5 @@
 package bmstu;
 
-public class AiroportReducer {
+public class AirportReducer {
+    
 }
