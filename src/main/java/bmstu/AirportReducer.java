@@ -13,7 +13,7 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
         float delayMin = Float.MAX_VALUE;
         int flightCount = 0;
         float delaySum = 0.0f;
-        Iterator
+        Iterator<Text> 
 
     }
 
