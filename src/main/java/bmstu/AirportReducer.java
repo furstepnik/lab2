@@ -16,7 +16,9 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
         Iterator<Text> iter = values.iterator();
         if (iter.hasNext()) {
             Text airportName = new Text(iter.next());
-            while ()
+            while (iter.hasNext()) {
+                
+            }
 
     }
 
