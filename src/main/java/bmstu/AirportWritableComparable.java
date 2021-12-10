@@ -34,7 +34,9 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
         if (airportIdCompare != 0) {
             return airportIdCompare;
         } else {
-            return Integer;
+            return Integer.compare(data, o.data);
         }
     }
+
+    
 }
