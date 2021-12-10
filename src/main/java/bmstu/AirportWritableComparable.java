@@ -17,7 +17,7 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
 
     public AirportWritableComparable (int airportId, int data) {
         this.airportId = airportId;
-        
+        this.data = data;
     }
 
     @Override
