@@ -18,6 +18,12 @@ public class AirportReducer extends Reducer<AirportWritableComparable, Text, Tex
             Text airportName = new Text(iter.next());
             while (iter.hasNext()) {
                 float delay = Float.parseFloat((iter.next().toString()));
+                if (delayMin > delay) {
+                    delayMin=delay;
+                }
+                if (delayMax < delay) {
+                    delayMax=delay;
+                }
                 
             }
 
