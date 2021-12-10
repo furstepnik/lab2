@@ -16,7 +16,7 @@ public class AirportsMapper extends Mapper<LongWritable, Text, AirportWritableCo
         if (key.get() > 0) {
             int airportId = Integer.parseInt(values[0].replaceAll("\"", ""));
             String airportName = values[1].replaceAll("\"", "");
-            
+            context.write()
         }
 
     }
