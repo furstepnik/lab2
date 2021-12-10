@@ -1,2 +1,4 @@
-package bmstu;public class AirportPartitioner {
+package bmstu;
+
+public class AirportPartitioner {
 }
