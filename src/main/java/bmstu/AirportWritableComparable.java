@@ -25,10 +25,12 @@ public class AirportWritableComparable implements WritableComparable<AirportWrit
     @Override
     public void readFields(DataInput in) throws IOException {
         airportID = in.readInt();
+        data = in.readInt();
     }
 
     @Override
     public int compareTo(AirportWritableComparable o) {
+        
         return 0;
     }
 }
