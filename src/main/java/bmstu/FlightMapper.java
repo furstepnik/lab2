@@ -12,6 +12,7 @@ public class FlightMapper extends Mapper<LongWritable, Text, AirportWritableComp
                        Mapper<LongWritable, Text, AirportWritableComparable, Text>.Context context)
             throws IOException, InterruptedException {
         String table = value.toString();
-        String values[] = table.
+        String values[] = table.split(",");
+        
     }
 }
